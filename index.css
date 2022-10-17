@@ -43,7 +43,7 @@ header {
   width: 900px;
   height: 800px;
   background: linear-gradient(0deg, #e1ceb58a 100%, #6150393b 100%),
-    url(/images/vase7.jpg);
+    url(images/vase7.jpg);
   background-size: 900px 900px;
   background-size: cover;
   background-repeat: no-repeat;
